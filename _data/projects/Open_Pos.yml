@@ -1,0 +1,12 @@
+name: OpenPOS
+desc: an Open POS based on ebcom
+site: https://example.org/your-project-link-here
+tags:
+  - POS
+  - EagleBoys
+  - Australia
+  - OpenSource
+  - DPOS
+upforgrabs:
+  name: OpenPOS
+  link: https://github.com/CooperDActor-bytes/OpenPOS.git
